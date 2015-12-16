@@ -1,0 +1,30 @@
+{
+  "name": "noradle-boilerplate",
+  "version": "0.1.0",
+  "description": "boilerplate for noradle app using plsql servlet",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:noradle/noradle-boilerplate.git"
+  },
+  "keywords": [
+    "noradle",
+    "boilerplate",
+    "template",
+    "scaffolding"
+  ],
+  "author": "kaven276@vip.sina.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noradle/noradle-boilerplate/issues"
+  },
+  "homepage": "https://github.com/noradle/noradle-boilerplate",
+  "dependencies": {
+    "express": "^4.13.3",
+    "noradle-http": "^0.13.0",
+    "noradle-nodejs-client": "^0.13.1"
+  }
+}
