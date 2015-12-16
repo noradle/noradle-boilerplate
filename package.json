@@ -1,6 +1,6 @@
 {
   "name": "noradle-boilerplate",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "boilerplate for noradle app using plsql servlet",
   "main": "server.js",
   "scripts": {
