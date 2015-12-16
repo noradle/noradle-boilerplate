@@ -12,6 +12,11 @@ rm -rf .git
 git init
 ```
 
+or
+```
+npm install noradle-boilerpate
+```
+
 directory/file structures
 ===========================
 
