@@ -14,7 +14,7 @@ git init
 
 or
 ```
-npm install noradle-boilerpate
+npm install noradle-boilerplate
 ```
 
 directory/file structures
