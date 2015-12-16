@@ -8,6 +8,7 @@ clone this repo and git re-init it to clear gix repo info
 ```shell
 git clone https://github.com/noradle/noradle-boilerplate.git yourapp
 cd yourapp
+rm -rf .git
 git init
 ```
 
