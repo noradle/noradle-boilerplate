@@ -1,0 +1,1 @@
+Directory "static/css" including all images files for this noradle application. 

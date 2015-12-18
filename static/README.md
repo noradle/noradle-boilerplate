@@ -1,0 +1,1 @@
+This directory include all referenced static files for this noradle application.

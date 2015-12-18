@@ -26,14 +26,17 @@ tree -L 3 -F -I node_modules
 ```text
 .
 ├── README.md
-├── data/
-│   └── ext_url_v.sql
 ├── lib/
 ├── package.json
 ├── schema/
+│   ├── data/
+│   │   └── ext_url_v.sql
 │   ├── plsql/
 │   └── table/
 ├── static/
+│   ├── css/
+│   ├── img/
+│   ├── js/
 │   └── packs/
 └── upload/
 ```

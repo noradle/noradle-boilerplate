@@ -1,0 +1,1 @@
+Directory "static/css" including all static files for each pl/sql units(package,procedure) exclusively.
